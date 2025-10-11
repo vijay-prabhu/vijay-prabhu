@@ -43,7 +43,7 @@ I'm a Senior Software Engineer at **Arteria AI** with 11+ years of experience de
 - **Complete redesign of escalation system** - Led Escalations 2.0 project with advanced filtering, sorting, and real-time processing
 - **30min → background jobs** - Architected async template processing system, eliminating blocking operations
 
-#### At Zoho Corporation (2015 - 2024)
+#### At Zoho Corporation (2015 - 2023)
 - **500+ enterprises adopted VMware monitoring framework** - Built real-time anomaly detection and auto-discovery algorithms
 - **40% performance improvement** - Optimized Nutanix monitoring data retrieval through architectural improvements
 - **30% reduction in setup time** - Designed intelligent auto-discovery algorithms for infrastructure monitoring

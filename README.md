@@ -1,47 +1,56 @@
 # Hi, I'm Vijay Prabhu Marikkani
 
-## Senior Software Engineer | Platform & Backend Systems Architect | Toronto, ON
+## Senior Software Engineer | Full-Stack & Platform Engineering | Toronto, ON
 
-> Building scalable, high-performance distributed systems | 11+ years of experience driving technical excellence
+> 11+ years building scalable distributed systems across fintech, legal tech, and enterprise SaaS
 
 ---
 
 ### About Me
 
-I'm a Senior Software Engineer at **Arteria AI** with 11+ years of experience designing and building enterprise-scale backend systems, distributed architectures, and monitoring platforms. I specialize in turning complex technical challenges into elegant, performant solutions that directly impact business outcomes.
+Senior Software Engineer with 11+ years of experience designing enterprise-scale
+backend systems, distributed architectures, and monitoring platforms. I specialize
+in turning complex technical challenges into elegant, performant solutions that
+directly impact business outcomes.
 
-**Currently:** Architecting microservices and event-driven systems at Arteria AI, a Toronto-based LegalTech company transforming legal document processing.
+**Recent:** Built microservices and document processing systems at a Series B
+LegalTech startup serving Fortune 500 banks — handling 100K+ documents with
+99.9% uptime.
 
-**Previously:** Spent 9 years at Zoho Corporation building monitoring and infrastructure solutions adopted by 500+ global enterprises.
+**Previously:** Spent 9 years at Zoho Corporation building monitoring and
+platform infrastructure adopted by 500+ global enterprises.
+
+**Currently:** Exploring Senior/Staff Engineer opportunities in fintech,
+enterprise SaaS, or AI-focused companies.
 
 ---
 
 ### Technical Expertise
 
 **Languages & Frameworks:**
-- Backend: Python (Django, FastAPI), Java (Spring Boot), Node.js, TypeScript
-- Frontend: React, Angular (4+), AngularJS
-- Infrastructure: Docker, Kubernetes, AWS (EC2, ECS, CloudWatch), VMware, Nutanix
+- Backend: Python (Django, FastAPI), Java (Spring Boot), TypeScript, Node.js
+- Frontend: React, Next.js, Angular, TypeScript
+- Infrastructure: Docker, Kubernetes, AWS, Terraform
 
 **Distributed Systems & Data:**
-- Databases: PostgreSQL, MySQL, Cassandra, Redis, Oracle
-- Message Queues: RabbitMQ, Apache Kafka, Bull Queue
-- Monitoring: Datadog, CloudWatch, Site24x7
+- Databases: PostgreSQL, MySQL, Redis, Cassandra
+- Message Queues: RabbitMQ, Apache Kafka, Celery
+- Observability: Datadog, Sentry, CloudWatch
 
-**Architecture Patterns:**
-- Microservices architecture & API design
-- Event-driven systems
-- High-performance data processing
-- Cloud-native applications
+**Architecture & Patterns:**
+- Microservices & API Design
+- Event-driven Systems
+- AI/LLM Integration
+- Platform Engineering
 
 ---
 
-### What I'm Working On
+### What I'm Building
 
-- Building production-ready systems at the intersection of AI and legal technology
-- Contributing to open source projects (check back soon!)
-- Writing technical deep-dives on distributed systems and performance optimization
-- Exploring advanced Kubernetes patterns and platform engineering
+- Exploring AI-powered document intelligence and RAG systems
+- Contributing to open source (projects coming soon)
+- Writing technical deep-dives on distributed systems
+- Open to interesting collaboration opportunities
 
 ---
 
@@ -52,12 +61,12 @@ I'm a Senior Software Engineer at **Arteria AI** with 11+ years of experience de
 
 ---
 
-**Looking to collaborate on:**
-- Platform/Infrastructure engineering challenges
-- Distributed systems architecture
-- Performance optimization and scalability
-- Technical leadership and mentorship
+**Open to opportunities in:**
+- Fintech / Enterprise SaaS
+- AI/ML Platform Engineering
+- Distributed Systems Architecture
+- Technical Leadership roles
 
 ---
 
-*"Great software is built by great teams solving real problems with elegant solutions."*
+*Building software that matters.*
